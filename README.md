@@ -23,6 +23,10 @@ Após o término da contagem a aba emite um som de notificação, assim como o n
 - Typescript
 - React
 
+## Deploy
+Deploy feito utilizando Vercel. Pode ser visualizado no seguinte endereço:
+https://moveit-pearl-theta.vercel.app/
+
 ## Contato
 
 William Firmino – [@williamwf](https://twitter.com/williamwf)
